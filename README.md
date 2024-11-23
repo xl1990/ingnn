@@ -16,7 +16,7 @@ This repo is based on [*Large Scale Learning on Non-Homophilous Graphs: New Benc
 
 `parse.py` contains flags for running models with specific settings and hyperparameters. 
 
-`dataset.py` loads our datasets.
+`dataset.py` loads datasets.
 
 `models.py` contains implementations for graph machine learning models, though C&S (`correct_smooth.py`, `cs_tune_hparams.py`) are in separate files. Running several of the GNN models on larger datasets may require at least 24GB of VRAM. **Our INGNN (OGNN) model is implemented in this file.**
 
