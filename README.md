@@ -49,8 +49,8 @@ conda activate MY_ENV_NAME
 
 1. Make sure a results folder exists in the root directory. 
 2. Our experiments are in the `experiments/` directory. 
-3. Before running the experiment, you could open `METHOD_exp.sh` and modify `dataset_lst` to change the datasets to run.For example, to run OGNN hyperparameter search: 
+3. Before running the experiment, you could open `METHOD_exp.sh` and modify `dataset_lst` to change the datasets to run. For example, to run OGNN hyperparameter search: 
 
 ```
-bash experiments/linkx_exp.sh pokec
+bash experiments/ognn_exp.sh
 ```
