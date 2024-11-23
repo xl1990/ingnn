@@ -1,6 +1,6 @@
 ## Information-Enhanced Graph Neural Network for Transcending Homophily Barriers
 
-[*Information-Enhanced Graph Neural Network for Transcending Homophily Barriers*](https://arxiv.org/abs/2210.05382)
+[*Information-Enhanced Graph Neural Network for Transcending Homophily Barriers*](https://arxiv.org/abs/2210.05382) (The updated paper is still under review. Link will be updated after publication.)
 
 
 Xiao Liu, Lijun Zhang, Hui Guan 
